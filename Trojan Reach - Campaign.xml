@@ -80,6 +80,101 @@
     <Label Hex="1512" Color="#FFCC00" Wrap="false">Outrim Void</Label>
   </Labels>
   <Borders>
+<Border Color="#6b00bd">2223</Border>
+<Border Color="#8a3900">1222</Border>
+<Border Color="#8a3900">1514</Border>
+<Border Color="#8a3900">2113</Border>
+<Border Color="#a733ff">2116</Border>
+<Border Color="#C0C0C0">0408</Border>
+<Border Color="#C0C0C0">0608</Border>
+<Border Color="#C0C0C0">0702</Border>
+<Border Color="#C0C0C0">0914</Border>
+<Border Color="#C0C0C0">1015</Border>
+<Border Color="#C0C0C0">1410</Border>
+<Border Color="#C0C0C0">1417</Border>
+<Border Color="#C0C0C0">2020</Border>
+<Border Color="#C0C0C0">2123</Border>
+<Border Color="#C0C0C0">2137</Border>
+<Border Color="#C0C0C0">2216</Border>
+<Border Color="#C0C0C0">2322</Border>
+<Border Color="#C0C0C0">2332</Border>
+<Border Color="#C0C0C0">2819</Border>
+<Border Color="#C0C0C0">2820</Border>
+<Border Color="#C0C0C0">3029</Border>
+<Border Color="#c880ff">0103</Border>
+<Border Color="#c880ff">0209</Border>
+<Border Color="#c880ff">0404</Border>
+<Border Color="#c880ff">0802</Border>
+<Border Color="#c880ff">1016</Border>
+<Border Color="#c880ff">1209</Border>
+<Border Color="#c880ff">1216</Border>
+<Border Color="#c880ff">1220</Border>
+<Border Color="#c880ff">1221</Border>
+<Border Color="#c880ff">1307</Border>
+<Border Color="#c880ff">1519</Border>
+<Border Color="#c880ff">1601</Border>
+<Border Color="#c880ff">1602</Border>
+<Border Color="#c880ff">1605</Border>
+<Border Color="#c880ff">1608</Border>
+<Border Color="#c880ff">1618</Border>
+<Border Color="#c880ff">1715</Border>
+<Border Color="#c880ff">1919</Border>
+<Border Color="#c880ff">2327</Border>
+<Border Color="#c880ff">2426</Border>
+<Border Color="#c880ff">2428</Border>
+<Border Color="#c880ff">2621</Border>
+<Border Color="#c880ff">2625</Border>
+<Border Color="#c880ff">2721</Border>
+<Border Color="#c880ff">2823</Border>
+<Border Color="#f09c00">0811</Border>
+<Border Color="#f09c00">2018</Border>
+<Border Color="#f09c00">2221</Border>
+<Border Color="#f09c00">2424</Border>
+<Border Color="#f09c00">2824</Border>
+<Border Color="#f09c00">3140</Border>
+<Border Color="#ffb833">0201</Border>
+<Border Color="#ffb833">0202</Border>
+<Border Color="#ffb833">0204</Border>
+<Border Color="#ffb833">0307</Border>
+<Border Color="#ffb833">0609</Border>
+<Border Color="#ffb833">0809</Border>
+<Border Color="#ffb833">0813</Border>
+<Border Color="#ffb833">0820</Border>
+<Border Color="#ffb833">0902</Border>
+<Border Color="#ffb833">1110</Border>
+<Border Color="#ffb833">1201</Border>
+<Border Color="#ffb833">1219</Border>
+<Border Color="#ffb833">1305</Border>
+<Border Color="#ffb833">1317</Border>
+<Border Color="#ffb833">1319</Border>
+<Border Color="#ffb833">1402</Border>
+<Border Color="#ffb833">1502</Border>
+<Border Color="#ffb833">1518</Border>
+<Border Color="#ffb833">1613</Border>
+<Border Color="#ffb833">1619</Border>
+<Border Color="#ffb833">1719</Border>
+<Border Color="#ffb833">1801</Border>
+<Border Color="#ffb833">1816</Border>
+<Border Color="#ffb833">1818</Border>
+<Border Color="#ffb833">2115</Border>
+<Border Color="#ffb833">2120</Border>
+<Border Color="#ffb833">2219</Border>
+<Border Color="#ffb833">2234</Border>
+<Border Color="#ffb833">2314</Border>
+<Border Color="#ffb833">2324</Border>
+<Border Color="#ffb833">2421</Border>
+<Border Color="#ffb833">2425</Border>
+<Border Color="#ffb833">2517</Border>
+<Border Color="#ffb833">2520</Border>
+<Border Color="#ffb833">2527</Border>
+<Border Color="#ffb833">2719</Border>
+<Border Color="#ffb833">2722</Border>
+<Border Color="#ffb833">2724</Border>
+<Border Color="#ffb833">2725</Border>
+<Border Color="#ffb833">2821</Border>
+<Border Color="#ffb833">2921</Border>
+<Border Color="#ffb833">2923</Border>
+<Border Color="#ffb833">3030</Border>
     <Border Allegiance="As" LabelPosition="0732">0026 0126 0125 0124 0123 0122 0123 0223 0323 0322 0323 0324 0424 0525 0625 0725 0824 0823 0824 0725 0726 0727 0728 0729 0829 0930 0931 1031 1131 1230 1229 1228 1227 1226 1225 1224 1223 1323 1322 1422 1522 1621 1722 1822 1923 2023 2024 2125 2126 2226 2227 2228 2229 2230 2231 2232 2233 2134 2034 1935 1835 1736 1636 1637 1538 1438 1339 1340 1341 1241 1141 1041 0941 0841 0741 0641 0541 0441 0341 0241 0141 0041 0040 0039 0038 0037 0036 0035 0034 0033 0032 0031 0030 0029 0028 0027</Border>
     <Border WrapLabel="true" Color="Blue" Allegiance="BlSo" LabelPosition="1007">1005 1106 1206 1207 1308 1207 1206 1106 1005</Border>
     <Border Color="Green" Allegiance="FlLe" LabelPosition="0412">0010 0110 0210 0310 0410 0510 0511 0611 0612 0713 0613 0614 0615 0716 0616 0517 0417 0418 0319 0320 0420 0521 0621 0722 0723 0724 0623 0523 0422 0421 0321 0221 0222 0221 0121 0120 0119 0118 0017 0016 0015 0014 0013 0012 0011 0010</Border>
@@ -87,34 +182,34 @@
     <Border WrapLabel="true" Allegiance="ImDd" LabelPosition="3109" Label="Third Imperium">1800 1900 2000 2100 2200 2300 2400 2500 2600 2700 2800 2900 3000 3100 3200 3300 3301 3302 3303 3304 3305 3306 3307 3308 3309 3310 3311 3312 3313 3314 3315 3316 3317 3318 3218 3219 3119 3018 2918 2817 2717 2616 2615 2515 2514 2413 2313 2213 2212 2211 2312 2411 2511 2610 2710 2709 2708 2707 2606 2506 2405 2306 2205 2105 2104 2103 2002 2001 1901 1800</Border>
     <Border Color="OliveDrab" Allegiance="SeFo" LabelPosition="2009">2008 2108 2208 2309 2208 2108 2008</Border>
     <Border Color="DarkKhaki" Allegiance="StCl" LabelPosition="0506">0403 0503 0504 0505 0504 0403</Border>
-    <Border Color="Black" Allegiance="ThHu" LabelPosition="2117">2118 2117 2116 2117 2118</Border>
-    <Border Color="Purple" Allegiance="DrHu" LabelPosition="2223">2223</Border>
-    <Border Color="#EE82EE" Allegiance="Na" LabelPosition="2223">2223</Border>
-    <Border Color="#EE82EE" Allegiance="Na" LabelPosition="2223">0103</Border>
-    <Border Color="#EE82EE" Allegiance="Na" LabelPosition="2223">0209</Border>
-    <Border Color="#EE82EE" Allegiance="Na" LabelPosition="2223">0404</Border>
-    <Border Color="#EE82EE" Allegiance="Na" LabelPosition="2223">0802</Border>
-    <Border Color="#EE82EE" Allegiance="Na" LabelPosition="2223">1209</Border>
-    <Border Color="#EE82EE" Allegiance="Na" LabelPosition="2223">1307</Border>
-    <Border Color="#EE82EE" Allegiance="Na" LabelPosition="2223">1601</Border>
-    <Border Color="#EE82EE" Allegiance="Na" LabelPosition="2223">1602</Border>
-    <Border Color="#EE82EE" Allegiance="Na" LabelPosition="2223">1605</Border>
-    <Border Color="#EE82EE" Allegiance="Na" LabelPosition="2223">1608</Border>
-    <Border Color="#EE82EE" Allegiance="Na" LabelPosition="2223">1216</Border>
-    <Border Color="#EE82EE" Allegiance="Na" LabelPosition="2223">1220</Border>
-    <Border Color="#EE82EE" Allegiance="Na" LabelPosition="2223">1519</Border>
-    <Border Color="#EE82EE" Allegiance="Na" LabelPosition="2223">1618</Border>
-    <Border Color="#EE82EE" Allegiance="Na" LabelPosition="2223">1715</Border>
-    <Border Color="#EE82EE" Allegiance="Na" LabelPosition="2223">1919</Border>
-    <Border Color="#EE82EE" Allegiance="Na" LabelPosition="2223">2116</Border>
-    <Border Color="#EE82EE" Allegiance="Na" LabelPosition="2223">1221</Border>
-    <Border Color="#EE82EE" Allegiance="Na" LabelPosition="2223">2327</Border>
-    <Border Color="#EE82EE" Allegiance="Na" LabelPosition="2223">2426</Border>
-    <Border Color="#EE82EE" Allegiance="Na" LabelPosition="2223">2428</Border>
-    <Border Color="#EE82EE" Allegiance="Na" LabelPosition="2223">2621</Border>
-    <Border Color="#EE82EE" Allegiance="Na" LabelPosition="2223">2625</Border>
-    <Border Color="#EE82EE" Allegiance="Na" LabelPosition="2223">2721</Border>
-    <Border Color="#EE82EE" Allegiance="Na" LabelPosition="2223">2823</Border>
+    <Border Color="#a733ff" Allegiance="ThHu" LabelPosition="2117">2118 2117 2116 2117 2118</Border>
+    <Border Color="#6b00bd" Allegiance="DrHu" LabelPosition="2223">2223</Border>
+    <Border Color="#EE82EE">2223</Border>
+    <Border Color="#EE82EE">0103</Border>
+    <Border Color="#EE82EE">0209</Border>
+    <Border Color="#EE82EE">0404</Border>
+    <Border Color="#EE82EE">0802</Border>
+    <Border Color="#EE82EE">1209</Border>
+    <Border Color="#EE82EE">1307</Border>
+    <Border Color="#EE82EE">1601</Border>
+    <Border Color="#EE82EE">1602</Border>
+    <Border Color="#EE82EE">1605</Border>
+    <Border Color="#EE82EE">1608</Border>
+    <Border Color="#EE82EE">1216</Border>
+    <Border Color="#EE82EE">1220</Border>
+    <Border Color="#EE82EE">1519</Border>
+    <Border Color="#EE82EE">1618</Border>
+    <Border Color="#EE82EE">1715</Border>
+    <Border Color="#EE82EE">1919</Border>
+    <Border Color="#EE82EE">2116</Border>
+    <Border Color="#EE82EE">1221</Border>
+    <Border Color="#EE82EE">2327</Border>
+    <Border Color="#EE82EE">2426</Border>
+    <Border Color="#EE82EE">2428</Border>
+    <Border Color="#EE82EE">2621</Border>
+    <Border Color="#EE82EE">2625</Border>
+    <Border Color="#EE82EE">2721</Border>
+    <Border Color="#EE82EE">2823</Border>
 
 
   </Borders>
